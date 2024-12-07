@@ -1,0 +1,3 @@
+C:/Users/Kuba/Desktop/Zaawansowany C++/Lab4_dokonczone/cmake-build-debug/CMakeFiles/Lab4.dir
+C:/Users/Kuba/Desktop/Zaawansowany C++/Lab4_dokonczone/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/Desktop/Zaawansowany C++/Lab4_dokonczone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
