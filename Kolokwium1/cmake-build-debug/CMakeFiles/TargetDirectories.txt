@@ -1,0 +1,3 @@
+C:/Users/Kuba/Desktop/Zaawansowany C++/Kolokwium1/cmake-build-debug/CMakeFiles/Kolokwium1.dir
+C:/Users/Kuba/Desktop/Zaawansowany C++/Kolokwium1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/Desktop/Zaawansowany C++/Kolokwium1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
